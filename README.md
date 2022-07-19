@@ -12,5 +12,3 @@ git github test
 
 9ttt
 10.tt
-
-15tt
