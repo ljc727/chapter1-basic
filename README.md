@@ -17,8 +17,12 @@ git github test
 
 aaaaa
 bbbbb
+<<<<<<< HEAD
 cccc
 ddd
 
 ㅁㅁㅁㅁ
 aaa
+=======
+cccc
+>>>>>>> branch 'master' of https://github.com/ljc727/chapter1-basic.git
