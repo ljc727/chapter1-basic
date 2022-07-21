@@ -18,7 +18,3 @@ git github test
 aaaaa
 bbbbb
 cccc
-
-ㅇㅇㅇㅇ
-ㅁㅁㅁ
-a
